@@ -1,0 +1,3 @@
+[submodule "slowfast"]
+	path = slowfast
+	url = https://github.com/eltonalenca90/pyslowfast_video_action_detection.git
